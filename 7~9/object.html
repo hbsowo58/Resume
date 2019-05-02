@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+  <meta charset="UTF-8">
+  <title>object</title>
+</head>
+<body>
+    <script type="text/javascript">
+
+    var emptyObject = {};
+    console.log(typeof emptyObject); // object
+    
+    var person = {
+      name: 'Lee',
+      gender: 'male',
+      sayHello: function () {
+        console.log('Hi! My name is ' + this.name);
+      }
+    };
+    
+    console.log(typeof person); // object
+    console.log(person); // {name: "Lee", gender: "male", sayHello: ƒ}
+    
+    person.sayHello(); // Hi! My name is Lee
+
+    // 빈 객체의 생성
+var person = new Object();
+// 프로퍼티 추가
+person.name = 'Lee';
+person.gender = 'male';
+person.sayHello = function () {
+  console.log('Hi! My name is ' + this.name);
+};
+
+console.log(typeof person); // object
+console.log(person); // {name: "Lee", gender: "male", sayHello: ƒ}
+
+person.sayHello(); // Hi! My name is Lee
+
+var person1 = {
+  name: 'Lee',
+  gender: 'male',
+  sayHello: function () {
+    console.log('Hi! My name is ' + this.name);
+  }
+};
+
+var person2 = {
+  name: 'Kim',
+  gender: 'female',
+  sayHello: function () {
+    console.log('Hi! My name is ' + this.name);
+  }
+};
+    </script>
+</body>
+</html>
