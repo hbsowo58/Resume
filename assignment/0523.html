@@ -22,11 +22,18 @@
     }
 
 
-    $add.onclick = function(){
+    // $add.onclick = function(){
+    //   const newTodo = $inputTodo.value;
+    //   addTodo(newTodo);
+    //   $inputTodo.value = '';
+    // }
+    $add.addEventListener('click', function(e){
+      // 버튼을 클릭하면 todos의 todo, li들을 확인하여 체크되어있는 애들이 있으면 유지시켜야되는데??
       const newTodo = $inputTodo.value;
       addTodo(newTodo);
       $inputTodo.value = '';
-    }
+    });
+
 
     $todos.addEventListener('click', function(e){
       //remove
@@ -41,11 +48,13 @@
     });
 
     $todos.addEventListener('change', function(e){
-      if(e.target.classList.contains('checkbox'))
-      // console.log(e.target.checked);
+      // if(e.target.classList.contains('checkbox'))
+      if(e.target.checked === true)
       e.target.parentNode.style.textDecoration = 'line-through';
+      e.target.setAttribute('checked',true);
       if(e.target.checked === false){
       e.target.parentNode.style.textDecoration = 'none';
+      e.target.removeAttribute('checked',false);
     }
     });
 
