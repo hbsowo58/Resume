@@ -1,0 +1,52 @@
+    
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Ajax</title>
+</head>
+
+<body>
+  <pre class="result"></pre>
+  <script>
+    const $result = document.querySelector('.result');
+    
+    const render = (content) => { $result.innerHTML = JSON.stringify(content, null, 2); };
+    
+    const ajax = (method, url, callback, payload) => {
+      
+      const xhr = new XMLHttpRequest();
+      
+      xhr.open(method, url);
+      
+      xhr.setRequestHeader('Content-Type', 'application/json');
+      
+      xhr.send(JSON.stringify(payload));
+     
+      xhr.onreadystatechange = () => {
+        if (xhr.readyState !== XMLHttpRequest.DONE) return;
+        
+        if (xhr.status >= 200 && xhr.status < 400) {
+          callback(JSON.parse(xhr.response));
+        } else {
+        }
+      };
+    };
+    
+    // ajax('POST', 'http://localhost:3000/todos', render, {id: 4, content: 'Angular',completed: true} );
+    // c 만들기
+    // ajax('GET', 'http://localhost:3000/todos', render);
+    // r 읽기/ 모두읽기
+    // ajax('GET', 'http://localhost:3000/todos/4', render);
+    // r 읽기 / 선택읽기 ID  
+    // ajax('PUT', 'http://localhost:3000/todos/4', render , {id: 4, content: 'React',completed: true});
+    // u 수정하기 한개의 아이디의것 모두 수정하기
+    // ajax('PATCH', 'http://localhost:3000/todos/4', render, {completed:false});
+    // u 수정하기 한개의 아이디것 한가지만 수정하기
+    // ajax('DELETE', 'http://localhost:3000/todos/4', render);
+    // d 삭제하기 아이디것 삭제
+
+  </script>
+</body>
+
+</html>

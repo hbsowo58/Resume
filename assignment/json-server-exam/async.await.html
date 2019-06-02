@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>async.await</title>
+</head>
+<body>
+  <pre class="result"></pre>
+  <script>
+    const $result = document.querySelector('.result');
+    const render = todos => { $result.innerHTML = JSON.stringify(todos, null, 2); };
+    // c 추가
+    // (async function () {
+    //   const res = await fetch('http://localhost:3000/todos', {
+    //     method: 'POST',
+    //     headers: { 'Content-Type': 'application/json' },
+    //     body: JSON.stringify({ id: 4, content: 'Angular', completed: false })
+    //   });
+    //   const todos = await res.json();
+    //   render(todos);
+    // }());
+
+    // r 읽기
+    // (async function () {
+    //   const res = await fetch('http://localhost:3000/todos');
+    //   const todos = await res.json();
+    //   render(todos);
+    // }());
+
+    // r 아이디로읽기
+    // (async function () {
+    //   const res = await fetch('http://localhost:3000/todos/1');
+    //   const todos = await res.json();
+    //   render(todos);
+    // }());
+
+    // u 일부 업데이트
+    // (async function () {
+    //   const res = await fetch('http://localhost:3000/todos/4', {
+    //     method: 'PATCH',
+    //     headers: { 'Content-Type': 'application/json' },
+    //     body: JSON.stringify({ completed: true })
+    //   });
+    //   const todos = await res.json();
+    //   render(todos);
+    // }());
+    // u id로 모두 업데이트
+    // (async function () {
+    //   const res = await fetch('http://localhost:3000/todos/4', {
+    //     method: 'PATCH',
+    //     headers: { 'Content-Type': 'application/json' },
+    //     body: JSON.stringify({id: 4, content: "React", completed: true })
+    //   });
+    //   const todos = await res.json();
+    //   render(todos);
+    // }());
+
+    // D 아이디로 삭제
+    // (async function () {
+    //   const res = await fetch('http://localhost:3000/todos/4', {
+    //     method: 'DELETE'
+    //   });
+    //   const todos = await res.json();
+    //   render(todos);
+    // }());
+
+  </script>
+</body>
+</html>
