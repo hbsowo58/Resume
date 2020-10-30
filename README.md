@@ -4,19 +4,7 @@
 
 <br>
 
-<img width="150" alt="허범성 프로필" src="https://user-images.githubusercontent.com/48181483/97836049-c9650f80-1d1e-11eb-976d-676d062802de.png">  ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁ<br>
-
-
-
-
-
-
-
-
-
-
-
-메일: [hbsowo58@gmail.com](mailto:hbsowo58@gmail.com)              전화번호: 010-4536-0307                [blog](hbsowo58@tistory.com)          [Github](https://github.com/hbsowo58)
+<img width="150" alt="허범성 프로필" src="https://user-images.githubusercontent.com/48181483/97836049-c9650f80-1d1e-11eb-976d-676d062802de.png"> 
 
 ---
 
@@ -28,29 +16,57 @@ Hello Wolrd!  😁
 
 ---
 
-2020~
+최근
 
-angular , react로 프로젝트를 진행하였고, 현재 vue 학습과 인터렉티브 디자인에 관심을 갖고 학습하고있습니다.
+현재 vue, 인터렉티브 디자인에 관심을 갖고 학습하고있습니다.
 
 ---
 
+# 기술스택
+
+Html5:
+
+- W3C 웹표준 규격에 대한 이해와 사용 능력 보유
+- 접근성을 고려한 마크업
+- 시맨틱한 태그 사용
+
+Css3:
+
+- Cross-Browsing 이슈 해결 능력 보유
+
+ Javascript:
+
+- es6+ 최신문법 이해
+- 자바스크립트 엔진 콜스택 & 이벤트루프 & 큐에 대한 이해
+
+Git:
+
+- 버전관리에 대한 이해
+
+React
+
+- hooks를 사용한 함수형 컴포넌트
+- 전역상태 라이브러리 redux 사용
+- styled componet를 통한 style in js
+
+typescript
+
+- angular 프레임워크를 사용한 프로젝트 경험
+- 정적타입에 대한 이해
+
+ AWS:
+
+- s3을 통해 배포경험
+
+---
+
+Notion,Slack,Trello,GitHub 등을 통한 협업 경험
+
+Zeplin/Figma 등의 사용을 통한 디자인툴 협업 경험
+
+<br>
+
 # 프로젝트
-
-
-
-
-
-
-
-# 기술 스택
-
-- html5,csse3, javascript,Git, AWS,react,typescript
-
-  
-
-- communication: Notion, Slack, Trello, GitHub 
-
-
 
 # 교육 & 수강
 
@@ -68,5 +84,10 @@ angular , react로 프로젝트를 진행하였고, 현재 vue 학습과 인터�
 
 
 
+연락처
 
+---
 
+- [email](mailto:hbsowo58@gmail.com) 
+- [Github](https://github.com/hbsowo58)
+- [blog](hbsowo58@tistory.com)   
