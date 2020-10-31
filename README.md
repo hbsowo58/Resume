@@ -22,7 +22,7 @@ Hello Wolrd!  😁
 
 ---
 
-# 기술스택
+# 기술 스택
 
 Html5:
 
@@ -39,10 +39,6 @@ Css3:
 - es6+ 최신문법 이해
 - 자바스크립트 엔진 콜스택 & 이벤트루프 & 큐에 대한 이해
 
-Git:
-
-- 버전관리에 대한 이해
-
 React
 
 - hooks를 사용한 함수형 컴포넌트
@@ -54,19 +50,48 @@ typescript
 - angular 프레임워크를 사용한 프로젝트 경험
 - 정적타입에 대한 이해
 
- AWS:
-
-- s3을 통해 배포경험
-
 ---
 
-Notion,Slack,Trello,GitHub 등을 통한 협업 경험
+Git:
 
-Zeplin/Figma 등의 사용을 통한 디자인툴 협업 경험
+- 버전관리에 대한 이해
+
+AWS:
+
+- AWS EC2, S3 Bucket 생성 및 관리 
+
+기타
+
+- Notion,Slack,Trello,GitHub 등을 통한 협업 경험
+
+- Zeplin/Figma 등의 사용을 통한 디자인툴 협업 경험
 
 <br>
 
 # 프로젝트
+
+### 기업형 레이아웃 clone(3개)
+
+[Github](https://github.com/hbsowo58/corporateLayout)
+
+기간 : 4주
+
+프로젝트 기여도 : 100%
+
+Skills : html5, css3, javascript, AWS(EC2, S3) ,git
+
+Demo Video
+
+https://youtu.be/0-RKm8nV00Y
+
+담당역할(프론트엔드 개발)
+
+- 전체 레이아웃 퍼블리싱
+- 시맨틱 마크업 & 웹 접근성 고려
+- 반응형 구현(테블릿, 핸드폰)
+- 크로스 브라우징(모던 브라우저)
+
+<br>
 
 # 교육 & 수강
 
@@ -82,11 +107,9 @@ Zeplin/Figma 등의 사용을 통한 디자인툴 협업 경험
 
 자료 구조, 알고리즘, 네트워크, 운영체제의 cs기초 학문 부터 프로그래밍 과목 등을 수강하였습니다.
 
+<br>
 
-
-연락처
-
----
+## 연락처
 
 - [email](mailto:hbsowo58@gmail.com) 
 - [Github](https://github.com/hbsowo58)
