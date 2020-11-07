@@ -104,7 +104,7 @@ https://youtu.be/0-RKm8nV00Y
 
 <br>
 
-# 교육 & 수강
+# 교육 & 수강 🌱
 
 ### fast campus
 
@@ -122,9 +122,10 @@ https://youtu.be/0-RKm8nV00Y
 
 ## 연락처
 
-[email 보내기 링크](mailto:hbsowo58@gmail.com)
-[연락처](01090612699)
 
+
+
+[<img align="left" alt="허범성이메일" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][mail]
 [<img align="left" alt="허범성블로그" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="허범성유투브" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="허범성인스타그램" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -133,10 +134,13 @@ https://youtu.be/0-RKm8nV00Y
 
 
 
-
-
-[blog]: hbsowo58@tistory.com
-[course]: http://vsCodeHero.com
+[mail]: mailto:hbsowo58@gmail.com
+[blog]: https://hbsowo58@tistory.com
 [youtube]: https://www.youtube.com/channel/UCePswZAoywJrbdE-a2YFxcw?view_as=subscriber
 [instagram]: https://www.instagram.com/hu_beom_sung/
 
+
+🔭
+👯 
+🥅 
+⚡ 
