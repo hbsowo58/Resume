@@ -4,7 +4,13 @@
 
 <br>
 
-<img width="150" alt="허범성 프로필" src="https://user-images.githubusercontent.com/48181483/97836049-c9650f80-1d1e-11eb-976d-676d062802de.png"> 
+<img width="150" alt="허범성 프로필" src="https://user-images.githubusercontent.com/48181483/97836049-c9650f80-1d1e-11eb-976d-676d062802de.png">
+
+연락처
+[<img align="left" alt="허범성이메일" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][mail]
+[<img align="left" alt="허범성블로그" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="허범성유투브" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="허범성인스타그램" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
 
@@ -120,15 +126,8 @@ https://youtu.be/0-RKm8nV00Y
 
 <br>
 
-## 연락처
 
 
-
-
-[<img align="left" alt="허범성이메일" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][mail]
-[<img align="left" alt="허범성블로그" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="허범성유투브" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="허범성인스타그램" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
