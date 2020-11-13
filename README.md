@@ -85,7 +85,7 @@ AWS:
 # 프로젝트
 
 
-AIRBNB CLONE PROJECT
+### AIRBNB CLONE PROJECT
 
 프로젝트 기여도 : 25%
 
@@ -99,14 +99,13 @@ Skills : html5, css3, javascript, angular ,git
 <br>
 담당역할(프론트엔드 개발)
 <br>
--  ROOMDETAIL 페이지,컴포넌트 구현
+
+-  ROOMDETAIL페이지, 컴포넌트 구현
 -  SWIPER THUMBNAIL CAROUSEL 사용 UI작업과 좋아요 버튼 구현
 -  디렉티브 사용하여 결제 CSS변경, NGX 부트스트랩 데이트피커 사용
 <br>
 
 [프로젝트 와이어프레임 링크](https://drive.google.com/file/d/1k8zXbiAIJxKttLqR4uUWA9ciwBnLEj2u/view?usp=sharing)
-
-<br>
 
 [팀 역할 구분 페이지 링크](https://docs.google.com/spreadsheets/d/1dQpj-4X_kXyUEHrmfRO1tGfk2ND5lE82PBlPQDEBQxc/edit#gid=0)
 
@@ -121,6 +120,69 @@ Skills : html5, css3, javascript, angular ,git
 
 [프로젝트 후기 발표 PPT 링크](https://docs.google.com/presentation/d/142l_x1dxBpk_AeKipNFw8rMzg-OkNmgXo5UBKg6VFnE/edit#slide=id.p)
 
+---
+### TODO LIST PROJECT
+
+프로젝트 기여도 : 100%
+
+기간: 2주
+
+Skills : html5, css3, javascript, react ,git
+<br>
+[목표]
+
+- 바닐라 자바스크립트와 리액트 라이브러리 차이를 학습
+- 추가,삭제, 항목별 구분, 모든 목록 완료시키기,  완료한 목록 모두 지우기 기능구현
+<br>
+[맡은 역할] 
+  -  TODO리스트 기능 구현 및 마크업
+
+[저장소] 
+
+[리액트 todo list 저장소 링크](https://github.com/hbsowo58/todo-List/tree/master/React)
+
+[바닐라 todo list 저장소 링크](https://github.com/hbsowo58/TodoList/tree/master/Vanila)
+
+---
+
+### WEB GAME PROJECT
+
+프로젝트 기여도 : 100%
+
+기간:2주
+
+Skills : html5, css3, javascript, react ,git
+
+[목표] 
+-  리액트 렌더링과 상태 관리를 이해하기위해 게임 구현
+[맡은 역할] 
+- 구구단, 끝말잇기 로직 구현
+
+추가적으로 TYPESCIRPT를 학습해서 PROJECT에 적용중입니다.
+
+[저장소](https://github.com/hbsowo58/webgame-react)
+
+[web game 저장소 링크](https://github.com/hbsowo58/webgame-react)
+---
+### MOVIE APP PROJECT
+
+프로젝트 기여도 : 100%
+
+기간:2주
+
+Skills : html5, css3, javascript, react ,git
+[목표]
+-  더미데이터 API에서 제공하는 DATA 적용
+-  GITHUB.IO를 이용해 배포 
+[맡은 역할] 
+-  더미데이터 API를 비통기 통신(AXIOS)으로 데이터 통신하여 화면 구성
+- 레이아웃 구현
+
+[저장소] movie app 저장소 링크
+
+[movie app 저장소 링크](https://github.com/hbsowo58/movie-app)
+
+---
 ### 기업형 레이아웃 clone(3개)
 
 [Github 링크](https://github.com/hbsowo58/corporateLayout)
