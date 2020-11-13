@@ -7,10 +7,10 @@
 <img width="150" alt="허범성 프로필" src="https://user-images.githubusercontent.com/48181483/97836049-c9650f80-1d1e-11eb-976d-676d062802de.png">
 
 ### 연락처
-[<img align="left" alt="허범성이메일" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][mail]
-[<img align="left" alt="허범성블로그" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="허범성유투브" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="허범성인스타그램" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="허범성에게 이메일 보내기 링크 이미지" title="메일 보내기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][mail]
+[<img align="left" alt="허범성 블로그 방문하기 링크 이미지" title="블로그 방문하기" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="허범성 유투브 방문하기 링크 이미지" title="유투브 방문하기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="허범성 인스타그램 방문하기 링크 이미지" title="인스타그램 방문하기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
 
@@ -47,22 +47,23 @@
 Css3:
 
 - Cross-Browsing 이슈 해결 능력 보유
+- SASS를 사용한 CSS 전처리 능력 보유
 
  Javascript:
 
 - es6+ 최신문법 이해
-- 자바스크립트 엔진 콜스택 & 이벤트루프 & 큐에 대한 이해
+- 자바스크립트 엔진 콜스택 & 이벤트루프 & 큐에 대한 이해 보유
 
 React
 
-- hooks를 사용한 함수형 컴포넌트
-- 전역상태 라이브러리 redux 사용
-- styled componet를 통한 style in js
+- hooks를 사용한 함수형 컴포넌트 사용 경험 보유
+- 전역상태 라이브러리 redux 사용 경험 보유
+- styled componet를 통한 style in js 사용 경험보유
 
 typescript
 
-- angular 프레임워크를 사용한 프로젝트 경험
-- 정적타입에 대한 이해
+- angular 프레임워크를 사용한 프로젝트 경험 보유
+- 정적타입에 대한 이해 보유
 
 ---
 
@@ -95,7 +96,7 @@ Skills : html5, css3, javascript, angular ,git
 
 [목표] 
 -  ANGULAR 프레임워크를 사용한 AIRBNBN CLONE 프로젝트 구현
--  FE 4명 BE3명 IOS 3명 팀프로젝트
+-  FE 4명 BE 3명 IOS 3명 팀프로젝트
 <br>
 담당역할(프론트엔드 개발)
 <br>
@@ -128,17 +129,18 @@ Skills : html5, css3, javascript, angular ,git
 기간: 2주
 
 Skills : html5, css3, javascript, react ,git
-<br>
+
 [목표]
 
 - 바닐라 자바스크립트와 리액트 라이브러리 차이를 학습
 - 추가,삭제, 항목별 구분, 모든 목록 완료시키기,  완료한 목록 모두 지우기 기능구현
-<br>
+
+
 [맡은 역할] 
-  -  TODO리스트 기능 구현 및 마크업
+-  TODO리스트 기능 구현 및 마크업
+<br>
 
 [저장소] 
-
 [리액트 todo list 저장소 링크](https://github.com/hbsowo58/todo-List/tree/master/React)
 
 [바닐라 todo list 저장소 링크](https://github.com/hbsowo58/TodoList/tree/master/Vanila)
@@ -155,14 +157,31 @@ Skills : html5, css3, javascript, react ,git
 
 [목표] 
 -  리액트 렌더링과 상태 관리를 이해하기위해 게임 구현
+<br>
 [맡은 역할] 
 - 구구단, 끝말잇기 로직 구현
 
-추가적으로 TYPESCIRPT를 학습해서 PROJECT에 적용중입니다.
+추가적으로 TYPESCRIPT를 학습해서 PROJECT에 적용중입니다.
 
-[저장소](https://github.com/hbsowo58/webgame-react)
-
+[저장소]
 [web game 저장소 링크](https://github.com/hbsowo58/webgame-react)
+---
+MOVIE APP PROJECT
+프로젝트 기여도 : 100%
+기간:2주
+[목표]
+-  더미데이터 API에서 제공하는 DATA 적용
+-  GITHUB.IO를 이용해 배포 
+
+[맡은 역할] 
+  -  더미데이터 API를 비통기 통신(AXIOS)으로 데이터 통신하여 화면 구성
+  - 레이아웃 구현
+[느낀점]
+더미 데이터 API를 사용하여 사용자에게 어떻게 보일지 고민하고
+GITHUB.IO를 이용해서 배포하는 경험을 하였습니다.
+
+
+[저장소] movie app 저장소 링크
 ---
 ### MOVIE APP PROJECT
 
@@ -171,6 +190,8 @@ Skills : html5, css3, javascript, react ,git
 기간:2주
 
 Skills : html5, css3, javascript, react ,git
+<br>
+
 [목표]
 -  더미데이터 API에서 제공하는 DATA 적용
 -  GITHUB.IO를 이용해 배포 
@@ -178,10 +199,26 @@ Skills : html5, css3, javascript, react ,git
 -  더미데이터 API를 비통기 통신(AXIOS)으로 데이터 통신하여 화면 구성
 - 레이아웃 구현
 
-[저장소] movie app 저장소 링크
-
+[저장소]
 [movie app 저장소 링크](https://github.com/hbsowo58/movie-app)
+---
+### REACT NEWS VIEWER PROJECT
 
+프로젝트 기여도 : 100%
+
+기간:2주
+
+[목표]
+-  리액트 라우터 적용 
+-  AXIOS 라이브러리를 적용한 비동기 통신 적용
+-  NEWS API에서 제공하는 최신뉴스 API 적용
+[맡은 역할] 
+-  AXIOS를 통한 뉴스 API 비동기 통신 기능 구현
+-  API별 카테고리 구분 UI구성
+-  리액트 라우터를 통한 페이지 구성
+
+[저장소]
+[REACT NEWS VIEWER PROJECT 저장소 링크](https://github.com/hbsowo58/react-project/tree/master/React-News-Viewer)
 ---
 ### 기업형 레이아웃 clone(3개)
 
@@ -193,9 +230,7 @@ Skills : html5, css3, javascript, react ,git
 
 Skills : html5, css3, javascript, AWS(EC2, S3) ,git
 
-Demo Video
-
-https://youtu.be/0-RKm8nV00Y
+[Demo Video 링크](https://youtu.be/0-RKm8nV00Y)
 
 담당역할(프론트엔드 개발)
 
@@ -203,8 +238,6 @@ https://youtu.be/0-RKm8nV00Y
 - 시맨틱 마크업 & 웹 접근성 고려
 - 반응형 구현(테블릿, 핸드폰)
 - 크로스 브라우징(모던 브라우저)
-
-<br>
 
 <br>
 
@@ -223,13 +256,6 @@ https://youtu.be/0-RKm8nV00Y
 자료 구조, 알고리즘, 네트워크, 운영체제의 cs기초 학문 부터 프로그래밍 과목 등을 수강하였습니다.
 
 <br>
-
-
-
-
-
-
-
 
 [mail]: mailto:hbsowo58@gmail.com
 [blog]: https://hbsowo58.tistory.com/468
