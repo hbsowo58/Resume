@@ -90,7 +90,7 @@ AWS:
 
 ### 기업형 레이아웃 clone(3개)
 
-[Github](https://github.com/hbsowo58/corporateLayout)
+[Github 링크](https://github.com/hbsowo58/corporateLayout)
 
 기간 : 4주
 
@@ -111,13 +111,33 @@ https://youtu.be/0-RKm8nV00Y
 
 <br>
 
+AIRBNB CLONE PROJECT
+
+프로젝트 기여도 : 25%
+
+[목표] 
+-  ANGULAR 프레임워크를 사용한 AIRBNBN CLONE 프로젝트 구현
+-  한달안에 FE 4명 BE3명 IOS 3명 팀프로젝트
+[맡은 역할] 
+  -  ROOMDETAIL 페이지,컴포넌트 구현
+  -  SWIPER THUMBNAIL CAROUSEL 사용 UI작업과 좋아요 버튼 구현
+  - 디렉티브 사용하여 결제 CSS변경, NGX 부트스트랩 데이트피커 사용
+<br>
+ [프로젝트 와이어프레임 링크](https://drive.google.com/drive/u/0/my-drive)
+ [팀 역할 구분 페이지 링크](https://docs.google.com/spreadsheets/d/1dQpj-4X_kXyUEHrmfRO1tGfk2ND5lE82PBlPQDEBQxc/edit#gid=0)
+ [저장소 링크](https://github.com/Team-FBI/FDS/tree/develop)
+ [프로젝트 시연 영상링크](https://www.youtube.com/watch?v=T4VJZDVovF4)
+ [프로젝트 후기 발표 PPT 링크](https://docs.google.com/presentation/d/142l_x1dxBpk_AeKipNFw8rMzg-OkNmgXo5UBKg6VFnE/edit#slide=id.p)
+
+<br>
+
 # 교육 & 수강 🌱
 
 ### fast campus
 
 프론트엔드 스쿨 12기 | *2019.03 - 2020.09*
 
-패스트 캠퍼스에서 6개월의 교육과정을 수료 했습니다.  개발에 대한 지식뿐 아니라 커뮤니케이션과 다양한 프로젝트 경험 및 조교활동을 하였습니다.
+패스트 캠퍼스에서 프론트엔드 스쿨 교육과정을 수료 했습니다.  개발에 대한 지식뿐 아니라 커뮤니케이션과 다양한 프로젝트 경험 및 조교활동을 하였습니다.
 
 ### 삼육대학교
 
