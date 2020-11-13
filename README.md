@@ -86,7 +86,7 @@ AWS:
 # 프로젝트
 
 
-### AIRBNB CLONE PROJECT
+### AIRBNB CLONE PROJECT 👯
 
 프로젝트 기여도 : 25%
 
@@ -141,6 +141,7 @@ Skills : html5, css3, javascript, react ,git
 <br>
 
 [저장소] 
+
 [리액트 todo list 저장소 링크](https://github.com/hbsowo58/todo-List/tree/master/React)
 
 [바닐라 todo list 저장소 링크](https://github.com/hbsowo58/TodoList/tree/master/Vanila)
@@ -155,33 +156,18 @@ Skills : html5, css3, javascript, react ,git
 
 Skills : html5, css3, javascript, react ,git
 
-[목표] 
--  리액트 렌더링과 상태 관리를 이해하기위해 게임 구현
-<br>
+[목표]
+
+- 리액트 렌더링과 상태 관리를 이해하기위해 게임 구현
+
 [맡은 역할] 
 - 구구단, 끝말잇기 로직 구현
 
 추가적으로 TYPESCRIPT를 학습해서 PROJECT에 적용중입니다.
 
 [저장소]
+
 [web game 저장소 링크](https://github.com/hbsowo58/webgame-react)
----
-MOVIE APP PROJECT
-프로젝트 기여도 : 100%
-기간:2주
-[목표]
--  더미데이터 API에서 제공하는 DATA 적용
--  GITHUB.IO를 이용해 배포 
-
-[맡은 역할] 
-  -  더미데이터 API를 비통기 통신(AXIOS)으로 데이터 통신하여 화면 구성
-  - 레이아웃 구현
-[느낀점]
-더미 데이터 API를 사용하여 사용자에게 어떻게 보일지 고민하고
-GITHUB.IO를 이용해서 배포하는 경험을 하였습니다.
-
-
-[저장소] movie app 저장소 링크
 ---
 ### MOVIE APP PROJECT
 
@@ -189,19 +175,25 @@ GITHUB.IO를 이용해서 배포하는 경험을 하였습니다.
 
 기간:2주
 
-Skills : html5, css3, javascript, react ,git
-<br>
-
 [목표]
--  더미데이터 API에서 제공하는 DATA 적용
--  GITHUB.IO를 이용해 배포 
+- 더미데이터 API에서 제공하는 DATA 적용
+- GITHUB.IO를 이용해 배포 
+
 [맡은 역할] 
--  더미데이터 API를 비통기 통신(AXIOS)으로 데이터 통신하여 화면 구성
+- 더미데이터 API를 비통기 통신(AXIOS)으로 데이터 통신하여 화면 구성
 - 레이아웃 구현
 
+[느낀점]
+더미 데이터 API를 사용하여 사용자에게 어떻게 보일지 고민하고
+GITHUB.IO를 이용해서 배포하는 경험을 하였습니다.
+
+
 [저장소]
+
 [movie app 저장소 링크](https://github.com/hbsowo58/movie-app)
+
 ---
+
 ### REACT NEWS VIEWER PROJECT
 
 프로젝트 기여도 : 100%
@@ -209,17 +201,23 @@ Skills : html5, css3, javascript, react ,git
 기간:2주
 
 [목표]
--  리액트 라우터 적용 
--  AXIOS 라이브러리를 적용한 비동기 통신 적용
--  NEWS API에서 제공하는 최신뉴스 API 적용
-[맡은 역할] 
--  AXIOS를 통한 뉴스 API 비동기 통신 기능 구현
--  API별 카테고리 구분 UI구성
--  리액트 라우터를 통한 페이지 구성
+- 리액트 라우터 적용 
+- AXIOS 라이브러리를 적용한 비동기 통신 적용
+- NEWS API에서 제공하는 최신뉴스 API 적용
+
+[맡은 역할]
+
+- AXIOS를 통한 뉴스 API 비동기 통신 기능 구현
+- API별 카테고리 구분 UI구성
+- 리액트 라우터를 통한 페이지 구성
 
 [저장소]
+
 [REACT NEWS VIEWER PROJECT 저장소 링크](https://github.com/hbsowo58/react-project/tree/master/React-News-Viewer)
+
 ---
+
+
 ### 기업형 레이아웃 clone(3개)
 
 [Github 링크](https://github.com/hbsowo58/corporateLayout)
@@ -264,6 +262,5 @@ Skills : html5, css3, javascript, AWS(EC2, S3) ,git
 
 
 🔭
-👯 
 🥅 
 ⚡ 
