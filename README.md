@@ -14,11 +14,7 @@
 
 ---
 
-
-<br>
-### 
-
-Hello Wolrd!  😁
+<br>Hello Wolrd!  😁
 
 사용자 경험을 개선하고싶은 프론트엔드 개발자 허범성 입니다. 고교시절 프로그래밍을 처음접하였고, 학부시절 CS과목을 수강한후 패스트캠퍼스에서 프론트엔드 스쿨을 수강하였습니다. 수료후 조교활동을 하였으며, 인터렉티브한 UI를구현할 수 있는 프론트 개발자를 지향하며 발전 중에 있습니다.
 
@@ -99,8 +95,8 @@ AIRBNB CLONE PROJECT
 [맡은 역할] 
   -  ROOMDETAIL 페이지,컴포넌트 구현
   -  SWIPER THUMBNAIL CAROUSEL 사용 UI작업과 좋아요 버튼 구현
-  - 디렉티브 사용하여 결제 CSS변경, NGX 부트스트랩 데이트피커 사용
-<br>
+  -  디렉티브 사용하여 결제 CSS변경, NGX 부트스트랩 데이트피커 사용
+
  [프로젝트 와이어프레임 링크](https://drive.google.com/file/d/1k8zXbiAIJxKttLqR4uUWA9ciwBnLEj2u/view?usp=sharing)
  <br>
  [팀 역할 구분 페이지 링크](https://docs.google.com/spreadsheets/d/1dQpj-4X_kXyUEHrmfRO1tGfk2ND5lE82PBlPQDEBQxc/edit#gid=0)
@@ -109,10 +105,8 @@ AIRBNB CLONE PROJECT
  [저장소 링크](https://github.com/Team-FBI/FDS/tree/develop)
  <br>
  [프로젝트 시연 영상링크](https://www.youtube.com/watch?v=T4VJZDVovF4)
- <br>
- [프로젝트 후기 발표 PPT 링크](https://docs.google.com/presentation/d/142l_x1dxBpk_AeKipNFw8rMzg-OkNmgXo5UBKg6VFnE/edit#slide=id.p)
- 
- 
+ <br> [프로젝트 후기 발표 PPT 링크](https://docs.google.com/presentation/d/142l_x1dxBpk_AeKipNFw8rMzg-OkNmgXo5UBKg6VFnE/edit#slide=id.p)
+
 ### 기업형 레이아웃 clone(3개)
 
 [Github 링크](https://github.com/hbsowo58/corporateLayout)
