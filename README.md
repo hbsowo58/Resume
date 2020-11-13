@@ -142,9 +142,9 @@ Skills : html5, css3, javascript, react ,git
 
 [저장소] 
 
-[리액트 todo list 저장소 링크](https://github.com/hbsowo58/todo-List/tree/master/React)
+[리액트 저장소 링크](https://github.com/hbsowo58/todo-List/tree/master/React)
 
-[바닐라 todo list 저장소 링크](https://github.com/hbsowo58/TodoList/tree/master/Vanila)
+[바닐라 저장소 링크](https://github.com/hbsowo58/TodoList/tree/master/Vanila)
 
 ---
 
@@ -167,7 +167,7 @@ Skills : html5, css3, javascript, react ,git
 
 [저장소]
 
-[web game 저장소 링크](https://github.com/hbsowo58/webgame-react)
+[저장소 링크](https://github.com/hbsowo58/webgame-react)
 ---
 ### MOVIE APP PROJECT
 
@@ -190,7 +190,7 @@ GITHUB.IO를 이용해서 배포하는 경험을 하였습니다.
 
 [저장소]
 
-[movie app 저장소 링크](https://github.com/hbsowo58/movie-app)
+[저장소 링크](https://github.com/hbsowo58/movie-app)
 
 ---
 
@@ -213,7 +213,7 @@ GITHUB.IO를 이용해서 배포하는 경험을 하였습니다.
 
 [저장소]
 
-[REACT NEWS VIEWER PROJECT 저장소 링크](https://github.com/hbsowo58/react-project/tree/master/React-News-Viewer)
+[저장소 링크](https://github.com/hbsowo58/react-project/tree/master/React-News-Viewer)
 
 ---
 
@@ -237,8 +237,7 @@ Skills : html5, css3, javascript, AWS(EC2, S3) ,git
 - 반응형 구현(테블릿, 핸드폰)
 - 크로스 브라우징(모던 브라우저)
 
-<br>
-
+---
 # 교육 & 수강 🌱
 
 ### fast campus
