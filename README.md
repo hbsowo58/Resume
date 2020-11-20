@@ -49,10 +49,10 @@ Css3:
 - Cross-Browsing 이슈 해결 능력 보유
 - SASS를 사용한 CSS 전처리 능력 보유
 
- Javascript:
+Javascript:
 
-- es6+ 최신문법 이해
-- 자바스크립트 엔진 콜스택 & 이벤트루프 & 큐에 대한 이해 보유
+- es6+ 최신 문법 이해
+- 자바스크립트 엔진 콜스택 & 이벤트 루프 & 큐에 대한 이해 보유
 
 React
 
