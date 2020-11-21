@@ -57,8 +57,8 @@ Javascript:
 React
 
 - hooks를 사용한 함수형 컴포넌트 사용 경험 보유
-- 전역상태 라이브러리 redux 사용 경험 보유
-- styled componet를 통한 style in js 사용 경험보유
+- 전역 상태 라이브러리 redux 사용 경험 보유
+- styled componet를 통한 style in js 사용 경험 보유
 
 typescript
 
