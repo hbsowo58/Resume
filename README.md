@@ -77,9 +77,9 @@ AWS:
 
 기타
 
-- Notion,Slack,Trello,GitHub 등을 통한 협업 경험
+- Notion, Slack, Trello, GitHub 등을 통한 협업 경험
 
-- Zeplin/Figma 등의 사용을 통한 디자인툴 협업 경험
+- Zeplin/Figma 등의 사용을 통한 디자인 툴 협업 경험
 
 <br>
 
