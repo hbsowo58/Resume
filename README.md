@@ -69,11 +69,11 @@ typescript
 
 Git:
 
-- 버전관리에 대한 이해
+- 버전 관리에 대한 이해
 
 AWS:
 
-- AWS EC2, S3 Bucket 생성 및 관리 
+- AWS EC2, S3 Bucket 생성 및 관리
 
 기타
 
