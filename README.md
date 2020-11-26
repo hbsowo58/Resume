@@ -90,7 +90,7 @@ AWS:
 
 프로젝트 기여도 : 25%
 
-Skills : html5, css3, javascript, angular ,git
+Skills : html5, css3, javascript, angular, git
 
 기간: 5주
 
