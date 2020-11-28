@@ -101,9 +101,9 @@ Skills : html5, css3, javascript, angular, git
 담당역할(프론트엔드 개발)
 <br>
 
--  ROOMDETAIL페이지, 컴포넌트 구현
--  SWIPER THUMBNAIL CAROUSEL 사용 UI작업과 좋아요 버튼 구현
--  디렉티브 사용하여 결제 CSS변경, NGX 부트스트랩 데이트피커 사용
+- ROOMDETAIL 페이지, 컴포넌트 구현
+- SWIPER THUMBNAIL CAROUSEL 사용 UI 작업과 좋아요 버튼 구현
+- 디렉 티브 사용하여 결제 CSS 변경, NGX 부트스트랩 데이트 피커 사용
 <br>
 
 [프로젝트 와이어프레임 링크](https://drive.google.com/file/d/1k8zXbiAIJxKttLqR4uUWA9ciwBnLEj2u/view?usp=sharing)
