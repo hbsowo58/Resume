@@ -128,7 +128,7 @@ Skills : html5, css3, javascript, angular, git
 
 기간: 2주
 
-Skills : html5, css3, javascript, react ,git
+Skills : html5, css3, javascript, react , git
 
 [목표]
 
