@@ -99,6 +99,7 @@ Skills : html5, css3, javascript, angular, git
 -  FE 4명 BE 3명 IOS 3명 팀프로젝트
 <br>
 담당역할(프론트엔드 개발)
+
 <br>
 
 - ROOMDETAIL 페이지, 컴포넌트 구현
@@ -258,6 +259,7 @@ Skills : html5, css3, javascript, AWS(EC2, S3) ,git
 [blog]: https://hbsowo58.tistory.com/468
 [youtube]: https://www.youtube.com/channel/UCePswZAoywJrbdE-a2YFxcw?view_as=subscriber
 [instagram]: https://www.instagram.com/hu_beom_sung/
+
 
 
 🔭
