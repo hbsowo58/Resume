@@ -16,7 +16,13 @@
 
 <br>Hello Wolrd!  😁
 
-사용자 경험을 개선하고 싶은 프런트엔드 개발자 허범성 입니다. 부시절 CS 과목을 수강한 후 패스트 캠퍼스에서 프런트엔드 스쿨을 수강하였습니다. 수료 후 조교 활동을 하였으며, 인터랙티브한 UI를 구현할 수 있는 프런트 개발자를 지향하며 발전 중에 있습니다.
+사용자 경험을 개선하고 싶은 프런트엔드 개발자 허범성 입니다.
+
+세명 컴퓨터 고등학교, 삼육 대학교 컴퓨터 학부를 졸업하였습니다.
+
+패스트 캠퍼스 프런트엔드 스쿨 수료 후 조교 활동을 하였습니다.
+
+현재는 민코딩 연구소에서 웹 개발자로 근무하고 있으며, SSAFY에서 강의를 진행하고 있습니다.
 
 ---
 
@@ -52,17 +58,17 @@ Css3:
 Javascript:
 
 - es6+ 최신 문법 이해
-- 자바스크립트 엔진 콜스택 & 이벤트 루프 & 큐에 대한 이해 보유
+- 자바스크립트 내부 동작 이해
 
 React
 
-- hooks를 사용한 함수형 컴포넌트 사용 경험 보유
-- 전역 상태 라이브러리 redux 사용 경험 보유
-- styled componet를 통한 style in js 사용 경험 보유
+- hooks를 사용한 함수형 컴포넌트 사용
+- 전역 상태 라이브러리 redux 사용
+- styled componet를 통한 style in js 사용
 
 typescript
 
-- angular 프레임워크를 사용한 프로젝트 경험 보유
+- angular 프레임워크를 사용한 프로젝트 경험
 - 정적 타입에 대한 이해 보유
 
 ---
@@ -83,8 +89,21 @@ AWS:
 
 <br>
 
-# 프로젝트
+# 경력
 
+### 알고리즘 문제풀이 사이트 개발 & 유지보수 🥅
+
+Skills : Vue, Django, Postgresql
+
+목표 : 기업 & 학원 유저 대상 알고리즘 풀이 사이트 개발 및 유지보수
+
+담당 역할 (프론트엔드, 백엔드 병행)
+
+![image](https://user-images.githubusercontent.com/48181483/163505059-315d2fd9-98bc-40f4-8eb3-ee59feebcc88.png)
+
+[사이트 링크](https://pro.mincoding.co.kr/)
+
+# 프로젝트
 
 ### AIRBNB CLONE PROJECT 👯
 
@@ -98,10 +117,10 @@ Skills : html5, css3, javascript, angular, git
 -  ANGULAR 프레임워크를 사용한 AIRBNBN CLONE 프로젝트 구현
 -  FE 4명 BE 3명 IOS 3명 팀프로젝트
 <br>
+
 담당역할(프론트엔드 개발)
 
 <br>
-
 - ROOMDETAIL 페이지, 컴포넌트 구현
 - SWIPER THUMBNAIL CAROUSEL 사용 UI 작업과 좋아요 버튼 구현
 - 디렉 티브 사용하여 결제 CSS 변경, NGX 부트스트랩 데이트 피커 사용
@@ -134,7 +153,7 @@ Skills : html5, css3, javascript, react , git
 [목표]
 
 - 바닐라 자바스크립트와 리액트 라이브러리 차이를 학습
-- 추가,삭제, 항목별 구분, 모든 목록 완료시키기,  완료한 목록 모두 지우기 기능구현
+- 추가, 삭제, 항목별 구분, 모든 목록 완료시키기,  완료한 목록 모두 지우기 기능구현
 
 
 [맡은 역할] 
@@ -255,13 +274,22 @@ Skills : html5, css3, javascript, AWS(EC2, S3) ,git
 
 <br>
 
+---
+
+# 조교 & 강의 ⚡
+
+패스트 캠퍼스 웹 개발 취업 완성 스쿨 조교 *2020.01 ~ 2020.02*
+
+패스트 캠퍼스 프론트엔드 스쿨 16기 클래스 매니저 *2020.03 ~ 2020.08*
+
+삼성 청년 소프트웨어 아카데미 5~7기 임베디드반 전임교수 *2021.01 ~ 진행중*
+
+데이원 컴퍼니 김민태의 프론트엔드 아카데미 온라인 조교 *2021.08 ~ 2022.01*
+
+데이원 컴퍼니 한 번에 끝내는 프론트엔드 개발 초격차 패키지  조교 *2021.11 ~ 진행중*
+
+
 [mail]: mailto:hbsowo58@gmail.com
 [blog]: https://hbsowo58.tistory.com/468
 [youtube]: https://www.youtube.com/channel/UCePswZAoywJrbdE-a2YFxcw?view_as=subscriber
 [instagram]: https://www.instagram.com/hu_beom_sung/
-
-
-
-🔭
-🥅 
-⚡ 
