@@ -296,6 +296,12 @@ Skills : html5, css3, javascript, AWS(EC2, S3) ,git
 
 삼성 청년 소프트웨어 아카데미 7기 파이썬반 부교수 *2022.04 ~ 진행 중*
 
+# 자격증
+
+정보 처리 기사 *2017.05*
+
+네트워크 관리사 *2021.10*
+
 
 [mail]: mailto:hbsowo58@gmail.com
 [blog]: https://hbsowo58.tistory.com/468
