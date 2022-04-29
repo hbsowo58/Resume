@@ -8,7 +8,7 @@
 
 ### 연락처
 [<img align="left" alt="허범성에게 이메일 보내기 링크 이미지" title="메일 보내기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][mail]
-[<img align="left" alt="허범성 블로그 방문하기 링크 이미지" title="블로그 방문하기" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="블로그 방문하기 링크" title="블로그 방문하기" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="허범성 유투브 방문하기 링크 이미지" title="유투브 방문하기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="허범성 인스타그램 방문하기 링크 이미지" title="인스타그램 방문하기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -304,6 +304,6 @@ Skills : html5, css3, javascript, AWS(EC2, S3) ,git
 
 
 [mail]: mailto:hbsowo58@gmail.com
-[blog]: https://hbsowo58.tistory.com/468
+[blog]: https://hbsowo58.tistory.com
 [youtube]: https://www.youtube.com/channel/UCePswZAoywJrbdE-a2YFxcw?view_as=subscriber
 [instagram]: https://www.instagram.com/hu_beom_sung/
