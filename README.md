@@ -1,6 +1,6 @@
-# 웹 개발자 & 강사 허범성
+# 웹 강사 허범성
 
->웹 개발자 & 강사 허범성입니다.
+>웹 강사 허범성입니다.
 
 
 <br>
@@ -10,20 +10,22 @@
 ### 연락처
 [<img align="left" alt="허범성에게 이메일 보내기 링크 이미지" title="메일 보내기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][mail]
 [<img align="left" alt="블로그 방문하기 링크" title="블로그 방문하기" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+<!--
 [<img align="left" alt="허범성 유투브 방문하기 링크 이미지" title="유투브 방문하기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="허범성 인스타그램 방문하기 링크 이미지" title="인스타그램 방문하기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+-->
 
 ---
 
 <br>Hello Wolrd!  😁
 
-사용자 경험을 개선하고 싶은 허범성 입니다.
+수강생의 학습 경험을 개선하고 싶은 허범성 입니다.
 
-컴퓨터 고등학교, 컴퓨터 학부를 졸업하였습니다.
+컴퓨터 고등학교, 대학교 컴퓨터 학부를 졸업하였습니다.
 
-부트캠프에서 프런트엔드 스쿨 조교 활동을 하였습니다.
+웹 부트 캠프에서 조교 활동을 하였습니다.
 
-현재는 웹 강사로 근무하고 있습니다.
+현재, 웹 강사로 근무하고 있습니다.
 
 ---
 
@@ -42,7 +44,11 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br>
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<br>
 
 
 <br>Html5:
