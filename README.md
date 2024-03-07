@@ -105,7 +105,7 @@ Skills : Vue, Django, Postgresql
 
 역할 : front → vue framework, back → django framework 
 
-유저수 : 23.06.15 기준 5215명
+유저수 : 24.03.07 기준 6497명
 
 ![image](https://user-images.githubusercontent.com/48181483/163505059-315d2fd9-98bc-40f4-8eb3-ee59feebcc88.png)
 
@@ -148,6 +148,8 @@ Skills : html5, css3, javascript, angular, git
 <br>
 
 [프로젝트 후기 발표 PPT 링크](https://docs.google.com/presentation/d/142l_x1dxBpk_AeKipNFw8rMzg-OkNmgXo5UBKg6VFnE/edit#slide=id.p)
+
+<!--
 
 ---
 ### TODO LIST PROJECT
@@ -245,7 +247,6 @@ GITHUB.IO를 이용해서 배포하는 경험을 하였습니다.
 
 ---
 
-<!--
 ### 기업형 레이아웃 clone(3개)
 
 [Github 링크](https://github.com/hbsowo58/corporateLayout)
@@ -290,15 +291,26 @@ Skills : html5, css3, javascript, AWS(EC2, S3) ,git
 
 삼성 청년 소프트웨어 아카데미 5~8기 임베디드 반 강의 *2021.01 ~ 2022.11*
 
-김민태의 프론트엔드 아카데미 조교 *2021.08 ~ 2022.01*
+김민태의 프론트엔드 아카데미 조교 *2021.08 ~ 2022.02*
 
 한 번에 끝내는 프론트엔드 개발 초격차 패키지 조교 *2021.11 ~ 진행 중*
 
+<!-- 25년5월8일까지 계약 -->
+
+
 삼성 청년 소프트웨어 아카데미 7기 파이썬 반 강의 *2022.04 ~ 2022.08*
+
+시그니처 패키지 : 프론트엔드 로드맵 마스터 온라인 조교 *2022.10 ~ 진행중*
+
+<!-- 24년10월4일 -->
 
 AI 엔지니어 취업 캠프 1기 *2022.11 ~ 2022.01*
 
 삼성 청년 소프트웨어 아카데미 9 ~ 11기 파이썬 반 강의 *2023.01 ~ 24.05*
+
+내 생에 마지막 JavaScript 온라인 조교 *2024.1 ~ 진행중*
+
+<!-- 26년 12월11일 -->
 
 # 자격증
 
