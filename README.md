@@ -111,6 +111,8 @@ Skills : Vue, Django, Postgresql
 
 [사이트 링크](https://pro.mincoding.co.kr/)
 
+<!--
+
 # 프로젝트
 
 ### AIRBNB CLONE PROJECT 👯
@@ -146,8 +148,6 @@ Skills : html5, css3, javascript, angular, git
 <br>
 
 [프로젝트 후기 발표 PPT 링크](https://docs.google.com/presentation/d/142l_x1dxBpk_AeKipNFw8rMzg-OkNmgXo5UBKg6VFnE/edit#slide=id.p)
-
-<!--
 
 ---
 ### TODO LIST PROJECT
