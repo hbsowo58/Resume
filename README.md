@@ -70,6 +70,10 @@ React
 
 - hooks를 사용한 함수형 컴포넌트 사용
 
+Vue
+
+- vue3 composition API & pinia 사용
+
 typescript
 
 - 정적 타입에 대한 이해
