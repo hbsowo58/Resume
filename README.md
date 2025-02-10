@@ -4,7 +4,7 @@
 
 <br>
 
-<img width="150" alt="허범성 프로필" src="https://user-images.githubusercontent.com/48181483/165893451-f51dc01f-e4a0-48a1-ad79-09a5dbcf0eb6.jpg">
+<img width="150" alt="허범성 프로필" src="https://github.com/user-attachments/assets/9540a16a-76d2-40c4-af99-e35c4cb67f1c">
 
 ### 연락처
 [<img align="left" alt="허범성에게 이메일 보내기 링크 이미지" title="메일 보내기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][mail]
@@ -35,8 +35,6 @@
 ---
 
 # 기술 스택
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -47,8 +45,11 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
+
 <br>
 
+<!--
 
 <br>Html5:
 
@@ -96,17 +97,19 @@ AWS:
 
 <br>
 
+-->
+
 # 경력
 
 ### 알고리즘 문제풀이 사이트 개발 & 유지보수 🥅
 
 Skills : Vue, Django, Postgresql
 
-목표 : [자사사이트] 기업 & 학원 대상 알고리즘 풀이 사이트 개발 및 유지 보수
+[자사사이트] 기업 & 학원 대상 알고리즘 풀이 사이트 개발 및 유지 보수
 
 역할 : front → vue framework, back → django framework 
 
-유저수 : 24.09.30 기준 7270명
+유저수 : 25.02.10 기준 7738명
 
 ![image](https://user-images.githubusercontent.com/48181483/163505059-315d2fd9-98bc-40f4-8eb3-ee59feebcc88.png)
 
@@ -288,7 +291,7 @@ Skills : html5, css3, javascript, AWS(EC2, S3) ,git
 
 프론트엔드 스쿨 16기 클래스 매니저 *2020.03 ~ 2020.08*
 
-삼성 청년 소프트웨어 아카데미 5~12기 임베디드, 파이썬 반 전임 강사 *2021.01 ~ 진행 중*
+삼성 청년 소프트웨어 아카데미 5~13기 임베디드, 파이썬 반 전임 강사 *2021.01 ~ 진행 중*
 
 김민태의 프론트엔드 아카데미 조교 *2021.08 ~ 2022.02*
 
