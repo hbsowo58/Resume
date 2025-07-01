@@ -36,57 +36,9 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" height="20" src="https://github.com/github/explore/blob/main/topics/express/express.png">
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 <br>
-
-<!--
-
-<br>Html5:
-
-- W3C 웹 표준 규격에 대한 이해
-- 접근성을 고려한 마크업
-- 시맨틱 태그 사용
-
-Css3:
-
-- Cross-Browsing 이슈 해결 능력 보유
-- SASS를 사용한 CSS 전처리 능력 보유
-
-Javascript:
-
-- es6+
-- 자바스크립트 내부 동작 이해
-
-React
-
-- hooks를 사용한 함수형 컴포넌트 사용
-
-Vue
-
-- vue3 composition API & pinia 사용
-
-typescript
-
-- 정적 타입에 대한 이해
-
----
-
-Git:
-
-- 버전 관리에 대한 이해
-
-AWS:
-
-- AWS EC2, S3 Bucket 생성 및 관리
-
-기타
-
-- Notion, Slack, mattermost, Trello, GitHub 등을 통한 협업
-
-- Zeplin, Figma 등의 사용을 통한 디자인 툴 협업
-
-<br>
-
--->
 
 # 프로젝트
 
@@ -98,7 +50,7 @@ Skills : Vue, Django, Postgresql
 
 역할 : front → vue framework, back → django framework 
 
-유저수 : 25.02.10 기준 7738명
+유저수 : 25.07.01 기준 8165명
 
 ![image](https://user-images.githubusercontent.com/48181483/163505059-315d2fd9-98bc-40f4-8eb3-ee59feebcc88.png)
 
